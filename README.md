@@ -1,2 +1,2 @@
 # AWS_Projects
-Some projects using AWS cloud services
+This repository will be a walkthrough of deploying and implememting some services and resources in AWS
