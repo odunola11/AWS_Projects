@@ -1,7 +1,6 @@
 AWS Identity and Access Management (IAM), is used to control who or what can access AWS services and resources.
+In this project, we'll be creating users and groups and assigning policies to them. We'll also create MFA for users.
 
-
-![image](https://user-images.githubusercontent.com/63674820/189516081-157bccfe-3479-45e8-a246-e42b179d7e8c.png)
 
 # CREATING USERS IN AWS IAM
 
