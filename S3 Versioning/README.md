@@ -1,4 +1,4 @@
-S3 Versioning is very useful tool to recover from accidental overwrite and deletion of files stored in the S3 bucket.
+S3 Versioning is a very useful tool to recover from accidental overwrite and deletion of files stored in the S3 bucket.
 
 # Step 1 - Create S3 bucket
 
