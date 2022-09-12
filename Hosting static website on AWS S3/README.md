@@ -1,4 +1,4 @@
-# S3 can used to host a static website 
+# S3 can be used to host a static website 
 
 # Step 1 - Create an S3 bucket
 
