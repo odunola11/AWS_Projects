@@ -1,3 +1,5 @@
+# Using session manager to remote log-in into EC2
+
 ## Session manager can be used instead of SSH to have access to an EC2 instance; this is a more secure option
 
 # Step 1 - Create a role for session manager
